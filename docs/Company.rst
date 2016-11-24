@@ -58,15 +58,13 @@ Lorem ipsum dolor sit amet, ei mutat mentitum tacimates mel, vim ex minimum labo
 
 Video
 ----------
+
 .. raw:: html
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+    <div style="margin-top:10px;">
+      <iframe width="560" height="315" src="http://www.youtube.com/embed/_EjisXtMy_Y" frameborder="0" allowfullscreen></iframe>
+    </div>
 
-
-.. image:: http://www.youtube.com/embed/dQw4w9WgXcQ
-   :target: http://www.youtube.com/embed/dQw4w9WgXcQ
 
 
 
