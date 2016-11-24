@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 3
    
    Diary
-   company
+   companies
    usage
 
 
