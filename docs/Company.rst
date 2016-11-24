@@ -56,6 +56,17 @@ Post-It
 Lorem ipsum dolor sit amet, ei mutat mentitum tacimates mel, vim ex minimum laboramus cotidieque. No eum autem regione erroribus. Ut quo stet invidunt, pro idque paulo tractatos id, vim vidit dicta ei. Nullam mentitum liberavisse mea cu, mel no choro animal iudicabit. Et ullum ridens menandri duo, id cum simul mediocrem assueverit. Eum dico diceret ex, omittam lobortis in cum. Quo ad sumo semper alterum.
 
 
+Video
+----------
+.. raw:: html
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+<iframe src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+
+
+
 Les onglets
 =======
 
