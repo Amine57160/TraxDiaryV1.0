@@ -1,12 +1,25 @@
-===== 
+####
 Diary
-=====
- 
-Ecran Principal
---------
+####
 
-Ecran Principal
------------------
+*******
+Chapter
+*******
 
-Ecran Principal
-------------------------
+Section
+=======
+
+Subsection
+----------
+
+Subsubsection
+^^^^^^^^^^^^
+
+Paragraph
+"""""""""
+
+Another section
+===============
+
+Another Paragraph
+"""""""""""""""""
