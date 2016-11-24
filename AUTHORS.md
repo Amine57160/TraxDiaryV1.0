@@ -10,6 +10,6 @@ Authors
 
 
 .. |ImageLink| image:: http://commonmark.org/help/images/favicon.pn
-.. _ImageLink: http://commonmark.org/help/images/favicon.pn
+.. _ImageLink: http://commonmark.org/help/images/favicon.png
 
 
