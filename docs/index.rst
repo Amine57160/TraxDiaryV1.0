@@ -13,8 +13,8 @@ Contents:
    :glob:
 
    Diary
-   Companies
-   Usage
+   company
+   usage
 
 
 
