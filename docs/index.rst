@@ -12,7 +12,6 @@ Contents:
    :maxdepth: 5
    
    Diary
-   Diary
    Company
    usage
 
