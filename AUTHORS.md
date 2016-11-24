@@ -1,15 +1,14 @@
+===== 
+Trax Diary .Net
+=====
+
+.. |ImageLink| image:: http://trax.lu/wp-content/uploads/2016/05/Trax-Business-Solutions80x130.bmp
+.. _ImageLink: http://trax.lu/wp-content/uploads/2016/05/Trax-Business-Solutions80x130.bmp
+
 Authors
--------
+--------
 
-* Amine
-* TRAX 
-
-![][1]
-
-[1]: http://commonmark.org/help/images/favicon.png
-
-
-.. |ImageLink| image:: http://commonmark.org/help/images/favicon.pn
-.. _ImageLink: http://commonmark.org/help/images/favicon.png
+* TRAX Business Solutions
+* by NAIR Amine
 
 
