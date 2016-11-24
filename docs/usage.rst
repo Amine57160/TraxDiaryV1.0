@@ -6,5 +6,13 @@ To use this template, simply update it::
 
 	import read-the-docs-template
 	
+.. raw:: html
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+<iframe src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+	
+	
 .. image:: http://example.com/image-with-the-first-frame.png
 :target: http://www.youtube.com/your-video
