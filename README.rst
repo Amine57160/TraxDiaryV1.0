@@ -55,7 +55,9 @@ The project is licensed under the BSD license.
     :copyright: (c) 2012 by Danilo Bargen.
     :license: BSD 3-clause
 
-.. youtube:: anwy2MPT5RE
-    :height: 315
-    :width: 560
-    :align: left
+ .. youtube:: anwy2MPT5RE
+        :height: 315
+        :width: 560
+        :align: left
+:copyright: (c) 2012 by Danilo Bargen.
+:license: BSD 3-clause
