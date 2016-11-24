@@ -9,10 +9,12 @@ Welcome to Read the Docs Template's documentation test
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 5
    
    Diary
+   
    Companies
+   
    usage
 
 
