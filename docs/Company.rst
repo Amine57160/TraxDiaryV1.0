@@ -65,6 +65,9 @@ Video
 </div>
 
 
+.. image:: http://www.youtube.com/embed/dQw4w9WgXcQ
+   :target: http://www.youtube.com/embed/dQw4w9WgXcQ
+
 
 
 Les onglets
