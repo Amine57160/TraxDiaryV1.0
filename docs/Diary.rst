@@ -3,11 +3,24 @@ Diary
 ####
 
 *******
-Chapter
+Ecran d'ouverture
 *******
 
-Section
+Ecran principale
 =======
+
+Menu de gauche
+=======
+
+Indication du bas d'ecran
+=======
+
+
+
+
+
+
+
 
 Subsection
 ----------
