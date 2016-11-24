@@ -13,8 +13,7 @@ Contents:
    
    Diary
    Diary
-   Companies
-   Diary
+   Company
    usage
 
 
