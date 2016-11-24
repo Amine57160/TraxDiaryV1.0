@@ -39,3 +39,20 @@ License
 -------
 
 The project is licensed under the BSD license.
+
+
+
+ ReST directive for embedding Youtube and Vimeo videos.
+    There are two directives added: ``youtube`` and ``vimeo``. The only
+    argument is the video id of the video to include.
+    Both directives have three optional arguments: ``height``, ``width``
+    and ``align``. Default height is 281 and default width is 500.
+    Example::
+        .. youtube:: anwy2MPT5RE
+            :height: 315
+            :width: 560
+            :align: left
+    :copyright: (c) 2012 by Danilo Bargen.
+    :license: BSD 3-clause
+
+
