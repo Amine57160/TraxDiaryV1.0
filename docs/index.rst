@@ -12,9 +12,9 @@ Contents:
    :maxdepth: 5
    
    Diary
-   
+   Diary
    Companies
-   
+   Diary
    usage
 
 
