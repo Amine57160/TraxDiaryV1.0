@@ -1,22 +1,25 @@
 ========
-Usage
+Pres-requis
 ========
 
-To use this template, simply update it::
+Ce chapitre présente ::
+----------------
 
-	import read-the-docs-template
-	
-.. raw:: html
+ 	- Configuration système requise.
+ 	- Installation de Trax Diary.Net.
+	- Activation du logiciel FactoryTalk View.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+Environnement requis
+^^^^^^^^^^^^^^^
+Pour exécuter Trax DiaRY, vous devez disposer de la configuration
+suivante :
+ 
+Mémoire vive (RAM) : 1 Go (ou plus) pour les systèmes 32 bits. Un minimum de
+2 Go est requis pour les systèmes d'exploitation 64 bits.
+Espace disque dur. Minimum 1,5 Go.
+Système d'exploitation.
+
+a REVOIR ENSEMBLE
 
 
-
-
-To use this template, simply update it::
-
-	import read-the-docs-template
-	
  
